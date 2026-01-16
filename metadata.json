@@ -1,0 +1,7 @@
+{
+  "name": "Consulta de Multas Inteligente",
+  "description": "Uma ferramenta avançada para extrair e organizar multas de trânsito a partir de textos ou imagens, facilitando o acompanhamento e conferência de débitos veiculares.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
